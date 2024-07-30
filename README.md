@@ -1,2 +1,3 @@
-# hello-world-calculator
-cpp codes for the same
+# hello-world-and-calculator
+
+## Aim:
