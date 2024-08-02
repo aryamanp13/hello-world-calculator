@@ -24,3 +24,16 @@ cout<<prod<<endl;
 cout<<"The division is:"<<endl;
 cout<<div<<endl;
 }
+/*output
+Enter first number
+7
+Enter second number
+9
+The sum is:
+16
+The subtraction is:
+-2
+The product is:
+63
+The division is:
+0.777778*/
